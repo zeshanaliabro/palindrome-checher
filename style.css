@@ -1,0 +1,42 @@
+.cantiener{
+position: absolute;
+left: 34%;
+top: 28%;
+background-color:white;
+flex-wrap: wrap;
+width: 370px;
+height: 270px;
+background-image: url(./images.jpeg);
+background-size: cover;
+}
+body{
+    background-image: url(./premium_photo-1661964187664-e26f70e1a224.jpeg   );
+    background-size: cover;
+    /* background-color:  rgb(10, 10, 10); */
+}
+#palindromeList{
+    width: 280px;
+    height: 35px;
+  
+    margin-left: 50px;
+  margin-top: 40px;
+  background-image: url(./abstract-digital-wallpaper-with-lines-binary-code-technology-innovation-concept-3d-rendering_670147-51650.avif);
+    color: white !important;
+}
+#man{
+    width: 250px;
+    height: 35px;
+    margin-left: 70px;
+    margin-top: 70p;
+    background-image: url(./lake-blue-moonlight-moon-wallpaper-preview.jpg);
+    color: white;
+    
+}
+.dad{
+text-align: center;
+color: white;
+}
+#li{
+    text-align: center;
+    color: white;
+}
