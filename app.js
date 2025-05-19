@@ -3,7 +3,7 @@ function check(){
     // let palindrome1 = [].split("").reverse("").join("");
    const palindromeList = document.getElementById("palindromeList").value;
   const palindrome =  document.getElementById("li")
-  const reverseWord = palindromeList.split("").reverse().join("");
+  const reverseWord = palindromeList.split("").reverse("").join("");
   if(reverseWord === palindromeList){
     palindrome.innerHTML = "this is palindrome words ";
   }else{
